@@ -1,3 +1,3 @@
 # Drinkshop  
 
-![Alt text](image/icon.webp) 
+<img src="image/icon.webp" alt="Icon" width="100">
