@@ -1,7 +1,8 @@
-# Drinkshop  
+<p align="center">
+  <img src="image/demo.gif" width="800">
+</p>
 
-<img src="image/icon.webp" alt="Icon" width="100">
-![video](image/demo.mp4)
+# Drinkshop  
 
  > [!TODO] change the [recipt root](https://github.com/tingchihc/Drinkshop/blob/9e1a20e8b5860d972af35289eb916df4e8bac286/app.py#L468) for you to save json file. 
 
@@ -30,3 +31,5 @@ python app.py
 
 ## Acknowledge
 - Textual
+
+<img src="image/icon.webp" alt="Icon" width="100">
