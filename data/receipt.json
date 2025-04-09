@@ -1,0 +1,35 @@
+{
+    "username": "aaa",
+    "time": "2025-04-09 13:48:09",
+    "items": [
+        {
+            "name": "Americano",
+            "count": 1
+        },
+        {
+            "name": "Cappuccino",
+            "count": 1
+        },
+        {
+            "name": "Latte",
+            "count": 1
+        },
+        {
+            "name": "Black Tea",
+            "count": 1
+        },
+        {
+            "name": "Soda",
+            "count": 1
+        },
+        {
+            "name": "Iced Tea",
+            "count": 1
+        },
+        {
+            "name": "Lemonade",
+            "count": 1
+        }
+    ],
+    "cost": "19.00"
+}
